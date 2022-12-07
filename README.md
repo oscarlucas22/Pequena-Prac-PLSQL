@@ -1,1 +1,1 @@
-# Peque-a-Prac-PL-SQL
+# Pequena-Prac-PLSQL
